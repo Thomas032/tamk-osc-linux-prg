@@ -1,0 +1,35 @@
+- What does it’s call do ?
+
+The fork() system call creates a new process by duplicating the calling process.
+The original process becomes the parent, and the new one is the child
+
+- What kind of partitions do you seem in manual page ?
+The fork() manual page contains standard sections such as:
+
+NAME - name and short description
+SYNOPSIS - function usage and required headers
+DESCRIPTION - detailed explanation
+RETURN VALUE - values returned to parent and child
+ERRORS - possible error conditions
+CONFORMING TO - applicable standards (e.g. POSIX)
+NOTES / SEE ALSO - additional information and related calls
+
+- Do you understand the documentation ?
+
+Mostly, sometimes I need to research/ask AI about some concepts.
+
+- Can you find the same information in the depths of the internet / with artificial intelligence ?
+
+Yes, all of the information is available online, however the man pages shall be taken as the most reliable source od truth.
+
+- what kind of topics the man pages are divided into ?
+
+Manual pages are divided into numbered sections:
+
+Section 1 – User commands
+Section 2 – System calls
+Section 3 – Library functions
+Section 4 – Device files
+Section 5 – File formats
+Section 7 – Miscellaneous topics
+Section 8 – System administration commands
