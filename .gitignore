@@ -40,6 +40,17 @@
 *.x86_64
 *.hex
 
+# Common executable names (no extension)
+main
+main_c
+main_cpp
+main_pp
+args
+run_ls
+run_ls_child
+run_any
+small_shell
+
 # Debug files
 *.dSYM/
 *.su
