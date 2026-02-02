@@ -1,0 +1,6 @@
+it analyzes all txt files in the directory and prints a formatted list of the most frequently
+occuring words (with counts).
+
+in the setup descirbed the .txt files contain fork and g++ man pages, therefore output of the command are
+the most frequently used words across both manuals.
+
